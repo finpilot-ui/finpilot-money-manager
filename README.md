@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform Support](https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web%20%7C%20macOS-blueviolet)](https://flutter.dev)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/finpilot-ui/finpilot-money-manager/pulls)
-[![Commercial UI Kit](https://img.shields.io/badge/Full%20Bundle-50%20Screens%20%2B%20Figma-7C3AED)](https://gumroad.com/l/finpilot-ui-kit)
+[![Commercial UI Kit](https://img.shields.io/badge/Full%20Bundle-50%20Screens%20%2B%20Figma-7C3AED)](https://ndroidhub.gumroad.com/l/finpilot-flutter-ui-kit)
 
 > **FinPilot Money Manager** is an enterprise-grade, commercial Flutter UI Kit designed for modern FinTech applications, personal finance trackers, digital banking suites, and wealth management platforms. 
 > 
@@ -22,9 +22,9 @@ Experience all 50 screens in real time inside a mobile phone preview wrapper dir
 ### 🚀 Get the Full 50-Screen Commercial Bundle + Figma File
 Accelerate your mobile banking or personal finance application by months. Get full access to all 50 production-ready screens, custom canvas painters, mock data models, and the complete design system in Figma:
 
-[![Download Full Bundle](https://img.shields.io/badge/Gumroad-Download%20Full%2050--Screen%20UI%20Kit%20%28%2429%29-2563EB?style=for-the-badge&logo=gumroad&logoColor=white)](https://gumroad.com/l/finpilot-ui-kit)
+[![Download Full Bundle](https://img.shields.io/badge/Gumroad-Download%20Full%2050--Screen%20UI%20Kit%20%28%2429%29-2563EB?style=for-the-badge&logo=gumroad&logoColor=white)](https://ndroidhub.gumroad.com/l/finpilot-flutter-ui-kit)
 
-👉 **[Download Full 50-Screen Flutter Source Code + Figma File ($29)](https://gumroad.com/l/finpilot-ui-kit)**
+👉 **[🚀 Download Full 50-Screen Flutter 3.x Source Code ($29)](https://ndroidhub.gumroad.com/l/finpilot-flutter-ui-kit)**
 
 ---
 
@@ -81,7 +81,7 @@ This starter repository includes 5 fully functional, production-ready screens:
 | **24/7 Priority Support & Help Center** | ❌ | Screens 49–50 (Live agent chat & ticket log) |
 | **Commercial License** | MIT | Unlimited Commercial Projects |
 
-👉 **[Unlock All 50 Screens on Gumroad ($29)](https://gumroad.com/l/finpilot-ui-kit)**
+👉 **[Unlock All 50 Screens on Gumroad ($29)](https://ndroidhub.gumroad.com/l/finpilot-flutter-ui-kit)**
 
 ---
 
@@ -261,4 +261,4 @@ static const double radiusXl = 24.0;
 ### 💬 Support & Inquiries
 For feature requests, bug reports, or commercial enterprise licensing inquiries:
 * **GitHub Issues:** [Open an Issue](https://github.com/finpilot-ui/finpilot-money-manager/issues)
-* **Full Bundle Support:** [Download on Gumroad](https://gumroad.com/l/finpilot-ui-kit)
+* **Full Bundle Support:** [Download on Gumroad](https://ndroidhub.gumroad.com/l/finpilot-flutter-ui-kit)

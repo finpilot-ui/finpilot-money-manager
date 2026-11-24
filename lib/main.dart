@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'core/theme/app_theme.dart';
 import 'screens/welcome_auth_screen.dart';
 import 'screens/home_dashboard_screen.dart';
@@ -53,7 +54,7 @@ class StarterGalleryScreen extends StatelessWidget {
     required this.onToggleTheme,
   });
 
-  static const String gumroadUrl = "https://gumroad.com/l/finpilot-ui-kit";
+  static const String gumroadUrl = "https://ndroidhub.gumroad.com/l/finpilot-flutter-ui-kit";
 
   @override
   Widget build(BuildContext context) {
@@ -169,9 +170,10 @@ class StarterGalleryScreen extends StatelessWidget {
                     height: 40,
                     child: ElevatedButton.icon(
                       onPressed: () {
+                        Clipboard.setData(const ClipboardData(text: gumroadUrl));
                         ScaffoldMessenger.of(context).showSnackBar(
                           const SnackBar(
-                            content: Text("Download Link: https://gumroad.com/l/finpilot-ui-kit"),
+                            content: Text("Gumroad Link copied: https://ndroidhub.gumroad.com/l/finpilot-flutter-ui-kit"),
                             backgroundColor: AppTheme.accentEmerald,
                           ),
                         );
